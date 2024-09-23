@@ -2,4 +2,4 @@
 
 
 ## Preview:
-<img src="" height="800" width="380">
+<img src="assets/preview.png" height="700" width="1000">
